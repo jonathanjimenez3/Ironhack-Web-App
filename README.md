@@ -1,9 +1,8 @@
 <h1>Marvel vs DC</h1>
-Description
-Brief description of the project
+Fanatico de <strong>Marvel i/o DC</strong>? En esta web app vamos a poder simular una batalla entre estos dos mundos y demostrar cuanto realmente sabemos de ellos.
 
 <h2>MVP (DOM - CANVAS)</h2>
-MVP definition, deliverables and/or user stories
+<strong>MVP</strong> definition, deliverables and/or user stories
 <ul>
   <li><strong>Signup</strong></li>
   <li><strong>Login</strong></li>
@@ -26,7 +25,8 @@ Classes and methods definition
 
 
 <h2>Links<h2>
-Trello (list of tasks)
+  <strong>Trello</strong>
+https://trello.com/b/IYr7OUTw/marvel-vs-dc
 Link url
 
 <h2>Github<h2>
