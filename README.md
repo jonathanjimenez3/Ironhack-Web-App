@@ -1,9 +1,15 @@
-<h1>Project's name</h1>
+<h1>Marvel vs DC</h1>
 Description
 Brief description of the project
 
 MVP (DOM - CANVAS)
 MVP definition, deliverables and/or user stories
+<ul>
+  <li>hola</li>
+  <li>hola1</li>
+  <li>hola2</li>
+  <li>hola3</li>
+</ul>
 
 Backlog
 Extra features you want to add once your MVP is done
