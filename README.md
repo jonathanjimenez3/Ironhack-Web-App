@@ -4,16 +4,17 @@ Fanatico de <strong>Marvel</strong> i/o <strong>DC</strong>? <br>En esta web app
 <h2>MVP (DOM - CANVAS)</h2>
 <strong>MVP</strong> definition, deliverables and/or user stories
 <ul>
-  <li><strong>Signup</strong></li>
-  <li><strong>Login</strong></li>
-  <li><strong>Homepage</strong></li>
-  <li><strong>FAQ</strong></li>
-  <li><strong>CardsGame</strong></li>
+  <li><strong>Signup:</strong>Nuevos usuarios.</li>
+  <li><strong>Login:</strong>Acceso para los usuarios.</li>
+  <li><strong>Homepage:</strong>Descripción de los dos mundos con los personajes que incluyen.</li>
+  <li><strong>CardsGame:</strong>Elegir mundo y jugar mostrando una carta tras otra.</li>
+  <li><strong>FAQ:</strong>Informacion sobre backlog y como funciona el juego.</li>
 </ul>
 
 <h2>Backlog</h2>
 Crear una Api con preguntas random sobre los mundos.<br>
-Permitir jugar contra otro usuario.
+Permitir jugar contra otro usuario.<br>
+Pagina visible para todos pero que solo puedan jugar los registrados.
 
 
 <h2>Wireframes</h2>
