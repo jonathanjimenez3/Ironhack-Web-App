@@ -23,7 +23,7 @@ https://www.mockflow.com/app/#Wireframe
 Classes and methods definition
 
 <h2>APIs</h2>
-https://superheroapi.com/ids.html 
+https://superheroapi.com/ids.html <br>
 https://superheroapi-m1.herokuapp.com/heroes/
 
 <h2>Links</h2>
