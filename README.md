@@ -2,22 +2,24 @@
 Description
 Brief description of the project
 
-MVP (DOM - CANVAS)
+<h2>MVP (DOM - CANVAS)</h2>
 MVP definition, deliverables and/or user stories
 <ul>
-  <li>hola</li>
-  <li>hola1</li>
-  <li>hola2</li>
-  <li>hola3</li>
+  <li>Signup</li>
+  <li>Login</li>
+  <li>Homepage</li>
+  <li>FAQ</li>
+  <li>CardsGame</li>
 </ul>
 
-Backlog
+<h2>Backlog</h2>
 Extra features you want to add once your MVP is done
 
-Wireframes
+
+<h2>Wireframes</h2>
 List of pages, and/or link to your sketchs
 
-Data structure
+<h2>Data structure</h2>
 Classes and methods definition
 
 APIs
