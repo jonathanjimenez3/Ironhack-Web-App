@@ -1,5 +1,5 @@
 <h1>Marvel vs DC</h1>
-Fanatico de <strong>Marvel</strong> i/o <strong>DC</strong>? En esta web app vamos a poder simular una batalla entre estos dos increibles mundos y demostrar cuanto realmente sabemos de ellos con un Quiz.
+Fanatico de <strong>Marvel</strong> i/o <strong>DC</strong>? <br>En esta web app vamos a poder simular una batalla entre estos dos increibles mundos y demostrar cuanto realmente sabemos de ellos con un Quiz.
 
 <h2>MVP (DOM - CANVAS)</h2>
 <strong>MVP</strong> definition, deliverables and/or user stories
@@ -12,7 +12,7 @@ Fanatico de <strong>Marvel</strong> i/o <strong>DC</strong>? En esta web app vam
 </ul>
 
 <h2>Backlog</h2>
-Crear una Api con preguntas random sobre los mundos.
+Crear una Api con preguntas random sobre los mundos.<br>
 Permitir jugar contra otro usuario.
 
 
@@ -23,7 +23,7 @@ https://www.mockflow.com/app/#Wireframe
 Classes and methods definition
 
 <h2>APIs</h2>
-https://superheroapi.com/ids.html
+https://superheroapi.com/ids.html 
 https://superheroapi-m1.herokuapp.com/heroes/
 
 <h2>Links</h2>
