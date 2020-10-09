@@ -1,10 +1,28 @@
-# Ironhack-Web-App
+Project's name
+Description
+Brief description of the project
 
-Minimum Viable Product
-The MVP will cover the following:
+MVP (DOM - CANVAS)
+MVP definition, deliverables and/or user stories
 
-Homepage: The homepage will present the apps concept and features and provide links to the rest of the site.
-My Kitchen: A user will be able to search the recipe database by selecting the ingredients they have in their kitchen.
-FAQ: Everything you always wanted to know about What's for dinner? but were too afraid to ask.
-Signup: A registration form for new users.
-Login: A sign in form for existing users.
+Backlog
+Extra features you want to add once your MVP is done
+
+Wireframes
+List of pages, and/or link to your sketchs
+
+Data structure
+Classes and methods definition
+
+APIs
+The API(s) you are using
+
+Links
+Trello (list of tasks)
+Link url
+
+Github
+URls for the project repo and deploy Link Repo Link Deploy
+
+Slides
+URls for the project presentation (slides) Link Slides.com
