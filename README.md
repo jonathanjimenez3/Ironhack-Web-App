@@ -1,4 +1,4 @@
-Project's name
+<h1>Project's name</h1>
 Description
 Brief description of the project
 
