@@ -2,13 +2,13 @@
 Fanatico de <strong>Marvel</strong> i/o <strong>DC</strong>? <br>En esta web app vamos a poder simular una batalla entre estos dos increibles mundos y demostrar cuanto realmente sabemos de ellos con un Quiz.
 
 <h2>MVP (DOM - CANVAS)</h2>
-<strong>MVP</strong> definition, deliverables and/or user stories
+<strong>MVP</strong>
 <ul>
-  <li><strong>Signup:</strong>Nuevos usuarios.</li>
-  <li><strong>Login:</strong>Acceso para los usuarios.</li>
-  <li><strong>Homepage:</strong>Descripción de los dos mundos con los personajes que incluyen.</li>
-  <li><strong>CardsGame:</strong>Elegir mundo y jugar mostrando una carta tras otra.</li>
-  <li><strong>FAQ:</strong>Informacion sobre backlog y como funciona el juego.</li>
+  <li><strong>Signup:</strong> Nuevos usuarios.</li>
+  <li><strong>Login:</strong> Acceso para los usuarios.</li>
+  <li><strong>Homepage:</strong> Descripción de los dos mundos con los personajes que incluyen.</li>
+  <li><strong>CardsGame:</strong> Elegir mundo y jugar mostrando una carta tras otra.</li>
+  <li><strong>FAQ:</strong> Informacion sobre backlog y como funciona el juego.</li>
 </ul>
 
 <h2>Backlog</h2>
