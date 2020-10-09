@@ -5,11 +5,11 @@ Brief description of the project
 <h2>MVP (DOM - CANVAS)</h2>
 MVP definition, deliverables and/or user stories
 <ul>
-  <li>Signup</li>
-  <li>Login</li>
-  <li>Homepage</li>
-  <li>FAQ</li>
-  <li>CardsGame</li>
+  <li><strong>Signup</strong></li>
+  <li><strong>Login</strong></li>
+  <li><strong>Homepage</strong></li>
+  <li><strong>FAQ</strong></li>
+  <li><strong>CardsGame</strong></li>
 </ul>
 
 <h2>Backlog</h2>
@@ -22,15 +22,15 @@ List of pages, and/or link to your sketchs
 <h2>Data structure</h2>
 Classes and methods definition
 
-APIs
-The API(s) you are using
+<h2>APIs<h2>
 
-Links
+
+<h2>Links<h2>
 Trello (list of tasks)
 Link url
 
-Github
+<h2>Github<h2>
 URls for the project repo and deploy Link Repo Link Deploy
 
-Slides
+<h2>Slides<h2>
 URls for the project presentation (slides) Link Slides.com
